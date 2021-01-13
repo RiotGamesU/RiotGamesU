@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiotGamesU&show_icons=true&theme=dark)](https://github.com/RiotGamesU)
+![](https://visitor-badge.glitch.me/badge?page_id=RiotGamesU)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiotGamesU&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RiotGamesU)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RiotGamesU&repo=RiotGamesU.github.io&show_owner=true&theme=dark)](https://github.com/RiotGamesU/RiotGamesU.github.io)
 
