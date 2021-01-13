@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![HitCount](http://hits.dwyl.com/RiotGamesU/RiotGamesU.svg)](https://github.com/RiotGamesU)
+### Hi there 👋    [![HitCount](http://hits.dwyl.com/RiotGamesU/RiotGamesU.svg)](https://github.com/RiotGamesU)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiotGamesU&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RiotGamesU)
 
