@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiotGamesU&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiotGamesU&show_icons=true&theme=dark)](https://github.com/RiotGamesU)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RiotGamesU&repo=RiotGamesU.github.io&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RiotGamesU&repo=RiotGamesU.github.io&show_owner=true&theme=dark)](https://github.com/RiotGamesU/RiotGamesU.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotGamesU)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotGamesU)](https://github.com/RiotGamesU)
 
 <!--
 **RiotGamesU/RiotGamesU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
