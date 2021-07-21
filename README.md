@@ -1,4 +1,4 @@
-### Hi there 👋[![HitCount](https://visitor-badge.glitch.me/badge?page_id=RiotGamesU)](https://github.com/RiotGamesU)
+### Hi there 👋 [![HitCount](https://visitor-badge.glitch.me/badge?page_id=RiotGamesU)](https://github.com/RiotGamesU)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiotGamesU&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RiotGamesU)
 
